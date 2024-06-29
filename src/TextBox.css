@@ -1,0 +1,23 @@
+.input-search {
+  padding: 0.7rem;
+  width: 250px;
+  margin-left: 0.3rem;
+  border: 1px white solid;
+  outline: none;
+  /* height: 7px; */
+}
+.search-list {
+  border: 1px black solid;
+  width: 100%;
+}
+.search-input-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+  width: 100%;
+  border: 1px black solid;
+  border-radius: 0.2rem;
+}
+.cancel-search-input {
+  margin-left: 5px;
+}
